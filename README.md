@@ -24,21 +24,21 @@ Finally plot the horizontal and vertical polar graphs of the layout.
 Test data: (Found in the test_data.txt)
 n=7
 Adjacency matrix regarding the number of wires between the blocks
-{{0 1 2 1 0 1 1}
-{1 0 1 2 1 2 1}
-{2 1 0 1 1 1 2}
-{1 2 1 0 1 1 1}
-{0 1 1 1 0 1 1}
-{1 2 1 1 1 0 1}
-{1 1 2 1 1 1 0}}
+{{0 1 2 1 0 1 1}  
+{1 0 1 2 1 2 1}  
+{2 1 0 1 1 1 2}  
+{1 2 1 0 1 1 1}  
+{0 1 1 1 0 1 1}  
+{1 2 1 1 1 0 1}  
+{1 1 2 1 1 1 0}}  
 Data regarding the Blocks in the format {block_ID block_width block_height} 
-{1 10 10}
-{2 10 15}
-{3 10 5}
-{4 5 10}
-{5 5 5}
-{6 15 10}
-{7 5 5}
+{1 10 10}  
+{2 10 15}  
+{3 10 5}  
+{4 5 10}  
+{5 5 5}  
+{6 15 10}  
+{7 5 5}  
 
 Polish Expression of the Initial Floorplan: 1 2 V 3 H 4 5 6 V H 7 V H
 
